@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.gradle/
+bin/
+out/
+*.log
+*.zip
+.env
+.idea/
+backend/src/main/resources/application.properties
